@@ -1,4 +1,4 @@
-# 🤖 Local AI QA Agent — Full Website Testing
+# Local AI QA Agent — Full Website Testing
 
 [![GitHub](https://img.shields.io/badge/GitHub-local--qa--agent--V4-black)](https://github.com/anantchaturvedi786/local-qa-agent-V4)
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
@@ -88,7 +88,7 @@ Switching to Ollama solved everything:
 
 - Windows PC with 8GB+ RAM
 - Google Chrome installed
-- Python 3.x
+- Python 3.11
 - Ollama installed from [ollama.com](https://ollama.com)
 
 ---
@@ -174,7 +174,7 @@ qa_report.html
   ✅ [Category] Dell
   Found 15 pages across 2 modules
 
-🧪 Testing 15 pages...
+  Testing 15 pages...
 
 [1/15] Module: Search
   Generated 8 test cases
