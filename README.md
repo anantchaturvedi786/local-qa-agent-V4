@@ -213,7 +213,6 @@ qa_report.html
 ```
 local-qa-agent-V4/
 ├── qa_agent.py       # Main agent
-├── qa_report.html    # Generated report
 └── README.md
 ```
 
